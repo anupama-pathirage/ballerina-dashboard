@@ -7,6 +7,10 @@
 ## Ballerina VSCode Plugin
 
 ![LU](https://img.shields.io/visual-studio-marketplace/last-updated/ballerina.ballerina)
+![Downloads](https://img.shields.io/visual-studio-marketplace/d/ballerina.ballerina)
+![Rating](https://img.shields.io/visual-studio-marketplace/r/ballerina.ballerina)
+![Stars](https://img.shields.io/visual-studio-marketplace/stars/ballerina.ballerina?label=stars)
+
 
 ## Ballerina Github Repositories 
 
