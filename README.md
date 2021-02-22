@@ -14,7 +14,7 @@
 
 ## Ballerina Github Repositories 
 
-### Compiler, Language Runtime and Internal Modules
+### Compiler, Language Runtime, and Internal Modules
 
 | Repo | Latest Version | Build | Last Commit |Total Issues | Bugs | PRs | Stars | Contributors
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
